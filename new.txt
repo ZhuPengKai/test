@@ -4,6 +4,10 @@ hello word
 hello git
 hello java
 Creating a new branch is quick.
-test and
+<<<<<<< HEAD
+test &
+=======
+test &
+>>>>>>> dev
 
 
